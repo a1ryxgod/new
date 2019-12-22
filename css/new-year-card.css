@@ -1,0 +1,11 @@
+.new-year-card {
+    background-image: url(https://i.pinimg.com/originals/20/d1/1c/20d11c7dfdcf568a30550e3e32084db5.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.new-year-card p {
+    font-family: 'Oswald', sans-serif;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 20px;
+}
